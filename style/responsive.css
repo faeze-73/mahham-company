@@ -1,0 +1,347 @@
+
+ @media only screen and (max-width: 1200px) {
+
+  .carousel .menu-header{
+    position: absolute;
+    top:0;
+    /* left:100px; */
+    z-index: 20;
+
+  }
+
+  .menu-ul li .subscribe-0 {
+
+    right: 320px;
+
+  }
+
+  .menu-ul li .subscribe-1 {
+
+    right: 420px;
+
+  }
+
+
+
+}
+
+@media only screen and (max-width: 991px){
+
+  .menu-header{
+    /* border:1px solid red; */
+  }
+
+
+
+  .menu-ul li {
+    width: 9%;
+    /* border:1px solid red; */
+
+  }
+
+  .menu-ul li {
+
+    font-size: 13.4px;
+
+  }
+
+  .menu-ul li.aboutt{
+    width: 10.5%;
+
+  }
+
+
+  .menu-ul li.samplework{
+    width: 11.5%;
+  }
+
+  .menu-ul li.weblog
+  {
+    width: 11%;
+  }
+
+  .menu-ul .li-width,
+  li.khadamat{
+    width: 11.5%;
+  }
+
+  .menu-ul li .subscribe-0 .item {
+   
+    font-size: 12.5px;
+  
+  }
+  
+
+  .menu-ul li .subscribe-0 {
+
+    right: 270px;
+
+  }
+
+  .menu-ul li .subscribe-1 {
+
+    right: 340px;
+
+  }
+
+  .section-one img{
+    height:280px;
+
+  }
+
+  h2.agency{
+    font-size: 29px;
+    font-weight: 600;
+    text-align: center;
+   
+   
+  }
+
+  .section-three-div .what-wedo{
+    font-size:24px;
+    font-weight: 500;
+  }
+
+  .section-three-details{
+    margin-top:40px;
+
+  }
+
+  .footer .footer-mrgb-mini{
+    margin-bottom: 45px;
+  }
+
+
+  }
+
+
+
+@media only screen and (max-width: 767px){
+
+  .HeaderTop{
+
+    display: block;
+
+  }
+
+  .leftLogo{
+    direction: ltr;
+  }
+
+  .headertoplogo{
+    width:45px;
+    height: 45px;
+    margin-top:-7px;
+    margin-left: 33px;
+  }
+
+  .headertoplogo img{
+    width:100%;
+    height:100%;
+  }
+
+
+  .carousel-item {
+    height: 35rem;
+
+  }
+
+  .menu-header-none{
+    display: none;
+  }
+
+
+    .section-one img{
+      height:250px;
+
+    }
+
+    .marg-bt{
+      margin-bottom: 45px;
+    }
+
+    .section-three .mahham-detail{
+
+      padding-right:30px;
+      padding-left:30px;
+
+    }
+
+
+    .footer .footer-mrgb{
+      margin-bottom: 45px;
+    }
+
+    .scroll-top  {
+      display: none;
+    }
+
+    .footer-lastsection{
+      display: flex;
+      justify-content: center;
+      padding-left: 40px;
+
+    }
+
+    .footer-section-two p{
+      text-align: center;
+    }
+
+
+    ul.list-quickaccess li,
+.footer-list-shoppingguide li{
+
+  font-size: 14px;
+ 
+
+}
+
+
+}
+
+@media only screen and (max-width:576px){
+
+  .carousel-item {
+    height: 29rem;
+
+  }
+
+  .section-three .section-three-below{
+    margin:40px auto 0px;
+    display: block;
+    
+  }
+
+  .section-three-span{
+    font-size:18px;
+    text-align: center;
+  }
+
+  .project{
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+
+  .carousel-caption h4{
+    width:300px;
+    padding:20px 2px;
+ }
+
+ .carousel-caption .carouselparag-size-one{
+  width:310px;
+}
+
+.carousel-caption .carouselparag-size-two{
+  width:340px;
+  margin-top:25px;
+}
+
+.carousel-caption .carouselparag-size-three{
+  width:240px;
+
+}
+
+.section-three .section-three-below .three-bottom{
+  margin-bottom:45px;
+ }
+
+  .section-three h4.mahham{
+    
+    font-size: 24px;
+    line-height: 39px;
+  }
+
+ .con-second-div .see-more{
+   display: none;
+ }
+
+  .footer .container{
+    padding-right:25px;
+    padding-left: 25px;
+  }
+
+
+}
+
+
+@media only screen and (max-width:340px){
+
+  .carousel-item {
+    height: 21rem;
+
+  }
+
+  .carousel-caption h4{
+
+     width:250px;
+     padding:20px 2px;
+     font-size:20px;
+     line-height: 33px;
+  }
+  .carousel-caption .carouselparag-size-one{
+    /* width:220px; */
+    display: none;
+  }
+  
+  .carousel-caption .carouselparag-size-two{
+    /* width:300px;
+    margin-top:25px; */
+    display: none;
+  }
+  
+  .carousel-caption .carouselparag-size-three{
+    /* width:150px; */
+    display: none;
+  
+  }
+
+  .container-slide {
+  
+    padding-bottom: 153px;
+   
+  }
+
+  .section-one img{
+    height:230px;
+
+  }
+
+  h2.agency{
+    font-size: 27px;
+    line-height: 43px;
+  }
+
+
+  h5.title{
+    font-size: 16px;
+
+  }
+
+  .digital-agency p{
+    font-size:14px;
+    line-height: 21px;
+  }
+
+  .digital-agency a.description {
+    font-size: 13px;
+    padding: 7px 17px;
+
+  }
+
+
+
+
+
+  .samples {
+    font-size: 27px;
+  }
+
+  .what-wedo2{
+    margin-top:-15px;
+  }
+
+
+
+
+}
+
